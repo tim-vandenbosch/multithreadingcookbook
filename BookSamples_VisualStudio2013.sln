@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 1", "Chapter 1", "{9A76FD51-5F4B-4A5C-AB54-93E4DC609002}"
 EndProject
@@ -175,6 +175,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recipe3", "Chapter10\Recipe3\Recipe3.csproj", "{B68B02BB-B158-43B0-B6FB-7E09AFD203B7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recipe4", "Chapter10\Recipe4\Recipe4.csproj", "{BB0B54B3-6E05-4E2F-8B66-547F504AD830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleThreadingExample", "SimpleThreadingExample\SimpleThreadingExample.csproj", "{944B98E4-C40E-459A-A4C4-8D78E6522F5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -946,6 +948,22 @@ Global
 		{BB0B54B3-6E05-4E2F-8B66-547F504AD830}.Release|ARM.ActiveCfg = Release|Any CPU
 		{BB0B54B3-6E05-4E2F-8B66-547F504AD830}.Release|x64.ActiveCfg = Release|Any CPU
 		{BB0B54B3-6E05-4E2F-8B66-547F504AD830}.Release|x86.ActiveCfg = Release|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Debug|ARM.Build.0 = Debug|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Debug|x64.Build.0 = Debug|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Debug|x86.Build.0 = Debug|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Release|ARM.ActiveCfg = Release|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Release|ARM.Build.0 = Release|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Release|x64.ActiveCfg = Release|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Release|x64.Build.0 = Release|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Release|x86.ActiveCfg = Release|Any CPU
+		{944B98E4-C40E-459A-A4C4-8D78E6522F5C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
